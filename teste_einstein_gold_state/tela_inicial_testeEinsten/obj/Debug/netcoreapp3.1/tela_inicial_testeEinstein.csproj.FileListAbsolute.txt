@@ -1,0 +1,16 @@
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\bin\Debug\netcoreapp3.1\tela_inicial_testeEinstein.exe
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\bin\Debug\netcoreapp3.1\tela_inicial_testeEinstein.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\bin\Debug\netcoreapp3.1\tela_inicial_testeEinstein.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\bin\Debug\netcoreapp3.1\tela_inicial_testeEinstein.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\bin\Debug\netcoreapp3.1\tela_inicial_testeEinstein.dll
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\bin\Debug\netcoreapp3.1\tela_inicial_testeEinstein.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinsten.frmTelaInicial.resources
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.dll
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\DS-2-Semestre\DS\Teste_Einstein\tela_inicial_testeEinstein\tela_inicial_testeEinsten\obj\Debug\netcoreapp3.1\tela_inicial_testeEinstein.genruntimeconfig.cache
